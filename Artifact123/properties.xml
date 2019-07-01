@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+	<MobileTesting>//a[text()='MOBILE TESTING']</MobileTesting>
+	<EmailTextBox>philadelphia-field-email</EmailTextBox>
+	<SignUpButton>philadelphia-field-submit</SignUpButton>
+</menu>
+
